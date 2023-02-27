@@ -25,7 +25,7 @@ public class OtherStringMethods {
      * @return a number greater than 0 if s1 > s2 lexigraphically, a number less than 0 is s1 < s2 lexigraphically,
      * and 0 if s1 is equivalent to s2.
      */
-    public int compareLexigraphically(String s1, String s2){
+    public int compareLexigraphically(String s1, String s2) {
         return 0;
     }
 
@@ -38,7 +38,7 @@ public class OtherStringMethods {
      *                    words we use " ".
      * @return an array of Strings that represent s1 split by splitAround.
      */
-    public String[] splitStringIntoMultipleStrings(String s1, String splitAround){
+    public String[] splitStringIntoMultipleStrings(String s1, String splitAround) {
         return null;
     }
 }
